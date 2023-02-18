@@ -19,6 +19,8 @@
 - [X] Criar animação de Slide para o menu
 - [X] Ajustar Responsividade do Site para mobile
 
+- [x] Corrigir a estrutura semantica do Html.
+- [X] Ajustar botão de ativar menu mobile no javascript
 
 
 <!--
