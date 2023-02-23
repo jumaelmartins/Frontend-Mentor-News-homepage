@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component
+# Frontend Mentor - News Homepage
 
 Segue solução para o desafio [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
 
